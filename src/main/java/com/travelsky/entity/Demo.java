@@ -4,4 +4,5 @@ public class Demo {
 	private Integer a;
 	private String b;
 	private String c;
+	private String d;
 }
