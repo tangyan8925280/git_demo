@@ -7,5 +7,5 @@ public class Demo {
 	private String d;
 	private String qe;
 	private String bbc;
-	private int a;
+	
 }
