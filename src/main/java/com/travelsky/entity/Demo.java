@@ -6,4 +6,5 @@ public class Demo {
 	private String c;
 	private String d;
 	private String qe;
+	private String bbc;
 }
