@@ -7,6 +7,10 @@ public class Demo {
 	private String d;
 	private String qe;
 	private String bbc;
+<<<<<<< HEAD
 	private int a;
 	private int bbca;
+=======
+	
+>>>>>>> develop
 }
