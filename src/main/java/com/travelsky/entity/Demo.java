@@ -9,5 +9,9 @@ public class Demo {
 	private String bbc;
 	private String cc;
 	
+
 	private int ccd;
+
+	private int aa;
+
 }
