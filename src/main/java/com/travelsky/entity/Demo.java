@@ -8,4 +8,6 @@ public class Demo {
 	private String qe;
 	private String bbc;
 	private String cc;
+	
+	private int ccd;
 }
